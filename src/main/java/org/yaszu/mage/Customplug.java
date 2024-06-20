@@ -12,6 +12,6 @@ public final class Customplug extends JavaPlugin {
 
     @Override
     public void onDisable() {
-        // Plugin shutdown logic
+        System.out.println("Plugin has shutdown!!");
     }
 }

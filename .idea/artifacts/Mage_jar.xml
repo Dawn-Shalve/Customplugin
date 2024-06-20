@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="Mage:jar">
+    <output-path>$USER_HOME$/Downloads/testserver/plugins</output-path>
+    <root id="root">
+      <element id="archive" name="Mage.jar">
+        <element id="module-output" name="Mage.main" />
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/paper-plugin.yml" />
+      </element>
+    </root>
+  </artifact>
+</component>

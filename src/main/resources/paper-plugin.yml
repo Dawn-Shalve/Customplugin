@@ -1,0 +1,4 @@
+name: Customplug
+version: '${version}'
+main: org.yaszu.mage.Customplug
+api-version: '1.20'

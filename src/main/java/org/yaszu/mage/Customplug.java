@@ -6,7 +6,7 @@ public final class Customplug extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        // Plugin startup logic
+        System.out.println("Plugin is working!!");
 
     }
 
